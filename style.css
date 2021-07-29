@@ -1,0 +1,97 @@
+a{
+  text-decoration: none;
+  color: white;
+}
+body{
+  background-color: white;
+}
+#navbar{
+  width: 1800px;
+  background-color: #015073;
+  top: none;
+  left:0;
+  top:0;
+  position: fixed;
+}
+header{
+  height: 55px;
+}
+#edit{
+  position: absolute;
+  width: 765px;
+  height: 144px;
+  left: 600px;
+  top: 80px;
+  font-size: 50px;
+  line-height: 144px;
+  color: #D8FAAD;
+}
+#firstname{
+  position: absolute;
+  width: 201px;
+  height: 84px;
+  left:59px;
+  top:200px;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 84px;
+  color: black;
+}
+
+#text_fn{
+  position: absolute;
+  width: 600px;
+  height: 30px;
+  left:59px;
+  top:300px;
+  border-radius: 5%;
+  background-color: #F0EEEE;
+  border-color: #F0EEEE;
+}
+
+#text_ln{
+  position: absolute;
+  width: 600px;
+  height: 30px;
+  left:59px;
+  top:380px;
+  border-radius: 5%;
+  background-color: #F0EEEE;
+  border-color: #F0EEEE;
+}
+#lastname{
+  position: absolute;
+  width: 201px;
+  height: 84px;
+  left:59px;
+  top:280px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 84px;
+  color: black;
+}
+#username{
+  position: absolute;
+  width: 201px;
+  height: 84px;
+  left:59px;
+  top:360px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 84px;
+  color: black;
+}
+#text_usn{
+  position: absolute;
+  width: 600px;
+  height: 30px;
+  left:59px;
+  top:455px;
+  border-radius: 5%;
+  background-color: #F0EEEE;
+  border-color: #F0EEEE;
+}
